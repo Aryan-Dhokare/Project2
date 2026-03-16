@@ -1,4 +1,4 @@
-# Northern-Trust-hackathon-Project
+# hackathon-Project
 
 # Mini-Payment-Gateway-Simulator
 
